@@ -6,7 +6,7 @@
 <script>
 // import HelloWorld from './components/HelloWorld.vue' // setup ref toRefs
 
-import HelloWorld from './components/HelloWorld2.vue'  //reative
+import HelloWorld from './components/HelloWorld3.vue'  //reative
 export default {
   name: 'App',
   components: {
