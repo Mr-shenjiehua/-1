@@ -4,8 +4,9 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue' // setup ref toRefs
 
+import HelloWorld from './components/HelloWorld2.vue'  //reative
 export default {
   name: 'App',
   components: {
